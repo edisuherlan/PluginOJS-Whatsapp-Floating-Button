@@ -1,0 +1,138 @@
+# WA-Float
+# Author  : Edi Suherlan
+# Company : audhighasu.com
+# Contact : audhighasu@gmail.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WA-Float\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.waFloat.displayName"
+msgstr "WA-Float"
+
+msgid "plugins.generic.waFloat.description"
+msgstr "Shows a floating WhatsApp button on the public journal site. Free edition by Edi Suherlan (audhighasu.com)."
+
+msgid "plugins.generic.waFloat.aria"
+msgstr "Chat with the journal manager on WhatsApp"
+
+msgid "plugins.generic.waFloat.watermark.title"
+msgstr "Free WA-Float plugin by Edi Suherlan — audhighasu.com"
+
+msgid "plugins.generic.waFloat.watermark.text"
+msgstr "Free by"
+
+msgid "plugins.generic.waFloat.settings"
+msgstr "WA-Float settings"
+
+msgid "plugins.generic.waFloat.settings.description"
+msgstr "Configure the floating WhatsApp contact button shown on the public site."
+
+msgid "plugins.generic.waFloat.settings.watermarkNotice"
+msgstr "Free edition by <strong>{$creatorName}</strong> — <a href=\"{$creatorUrl}\" target=\"_blank\" rel=\"noopener\">audhighasu.com</a>. Credit is shown in plugin settings only (not on the public site)."
+
+msgid "plugins.generic.waFloat.settings.footerCredit"
+msgstr "WA-Float free plugin — {$creatorName} · {$creatorEmail} · <a href=\"{$creatorUrl}\" target=\"_blank\" rel=\"noopener\">{$creatorUrl}</a>"
+
+msgid "plugins.generic.waFloat.settings.showFrontend"
+msgstr "Show WhatsApp float button on the public site"
+
+msgid "plugins.generic.waFloat.settings.showLabel"
+msgstr "Show text label beside the icon"
+
+msgid "plugins.generic.waFloat.settings.phone"
+msgstr "Manager WhatsApp number"
+
+msgid "plugins.generic.waFloat.settings.phone.description"
+msgstr "Use international format without + (e.g. 6281234567890). Leading 0 will be converted to 62."
+
+msgid "plugins.generic.waFloat.settings.phone.required"
+msgstr "WhatsApp number is required."
+
+msgid "plugins.generic.waFloat.settings.message"
+msgstr "Pre-filled message"
+
+msgid "plugins.generic.waFloat.settings.message.description"
+msgstr "This text is sent automatically when the visitor opens WhatsApp."
+
+msgid "plugins.generic.waFloat.settings.message.default"
+msgstr "Hello, I would like to ask about this journal."
+
+msgid "plugins.generic.waFloat.settings.buttonLabel"
+msgstr "Button label"
+
+msgid "plugins.generic.waFloat.settings.buttonLabel.default"
+msgstr "Chat WhatsApp"
+
+msgid "plugins.generic.waFloat.settings.position"
+msgstr "Float position"
+
+msgid "plugins.generic.waFloat.settings.position.description"
+msgstr "Choose a corner preset, or custom to set coordinates manually."
+
+msgid "plugins.generic.waFloat.settings.position.bottom_right"
+msgstr "Bottom right"
+
+msgid "plugins.generic.waFloat.settings.position.bottom_left"
+msgstr "Bottom left"
+
+msgid "plugins.generic.waFloat.settings.position.top_right"
+msgstr "Top right"
+
+msgid "plugins.generic.waFloat.settings.position.top_left"
+msgstr "Top left"
+
+msgid "plugins.generic.waFloat.settings.position.custom"
+msgstr "Custom coordinates"
+
+msgid "plugins.generic.waFloat.settings.offsetX"
+msgstr "Horizontal offset (from edge)"
+
+msgid "plugins.generic.waFloat.settings.offsetY"
+msgstr "Vertical offset (from edge)"
+
+msgid "plugins.generic.waFloat.settings.offset.description"
+msgstr "Number in px, or with unit (e.g. 24, 1.5rem, 3vw)."
+
+msgid "plugins.generic.waFloat.settings.customTop"
+msgstr "Custom top"
+
+msgid "plugins.generic.waFloat.settings.customRight"
+msgstr "Custom right"
+
+msgid "plugins.generic.waFloat.settings.customBottom"
+msgstr "Custom bottom"
+
+msgid "plugins.generic.waFloat.settings.customLeft"
+msgstr "Custom left"
+
+msgid "plugins.generic.waFloat.settings.custom.description"
+msgstr "Fill only the edges you need (e.g. right + bottom). Leave others empty. Values: 24, 24px, 2rem, 5%."
+
+msgid "plugins.generic.waFloat.settings.colorStyle"
+msgstr "Color style"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.description"
+msgstr "Pick a color preset for the float button."
+
+msgid "plugins.generic.waFloat.settings.colorStyle.whatsapp"
+msgstr "WhatsApp green"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.emerald"
+msgstr "Emerald"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.ocean"
+msgstr "Ocean blue"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.sunset"
+msgstr "Sunset orange"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.midnight"
+msgstr "Midnight"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.orchid"
+msgstr "Orchid purple"

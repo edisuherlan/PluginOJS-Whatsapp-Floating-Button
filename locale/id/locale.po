@@ -1,0 +1,138 @@
+# WA-Float
+# Author  : Edi Suherlan
+# Company : audhighasu.com
+# Contact : audhighasu@gmail.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WA-Float\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.waFloat.displayName"
+msgstr "WA-Float"
+
+msgid "plugins.generic.waFloat.description"
+msgstr "Menampilkan tombol WhatsApp mengambang di situs jurnal. Edisi gratis oleh Edi Suherlan (audhighasu.com)."
+
+msgid "plugins.generic.waFloat.aria"
+msgstr "Chat dengan pengelola jurnal via WhatsApp"
+
+msgid "plugins.generic.waFloat.watermark.title"
+msgstr "Plugin WA-Float gratis oleh Edi Suherlan — audhighasu.com"
+
+msgid "plugins.generic.waFloat.watermark.text"
+msgstr "Gratis oleh"
+
+msgid "plugins.generic.waFloat.settings"
+msgstr "Pengaturan WA-Float"
+
+msgid "plugins.generic.waFloat.settings.description"
+msgstr "Atur tombol WhatsApp mengambang yang tampil di situs publik."
+
+msgid "plugins.generic.waFloat.settings.watermarkNotice"
+msgstr "Edisi gratis oleh <strong>{$creatorName}</strong> — <a href=\"{$creatorUrl}\" target=\"_blank\" rel=\"noopener\">audhighasu.com</a>. Kredit hanya tampil di pengaturan plugin (tidak di situs publik)."
+
+msgid "plugins.generic.waFloat.settings.footerCredit"
+msgstr "Plugin WA-Float gratis — {$creatorName} · {$creatorEmail} · <a href=\"{$creatorUrl}\" target=\"_blank\" rel=\"noopener\">{$creatorUrl}</a>"
+
+msgid "plugins.generic.waFloat.settings.showFrontend"
+msgstr "Tampilkan tombol WA float di situs publik"
+
+msgid "plugins.generic.waFloat.settings.showLabel"
+msgstr "Tampilkan teks label di samping ikon"
+
+msgid "plugins.generic.waFloat.settings.phone"
+msgstr "Nomor WhatsApp pengelola"
+
+msgid "plugins.generic.waFloat.settings.phone.description"
+msgstr "Format internasional tanpa + (contoh: 6281234567890). Angka 0 di depan akan diubah ke 62."
+
+msgid "plugins.generic.waFloat.settings.phone.required"
+msgstr "Nomor WhatsApp wajib diisi."
+
+msgid "plugins.generic.waFloat.settings.message"
+msgstr "Pesan otomatis"
+
+msgid "plugins.generic.waFloat.settings.message.description"
+msgstr "Teks ini terisi otomatis saat pengunjung membuka WhatsApp."
+
+msgid "plugins.generic.waFloat.settings.message.default"
+msgstr "Halo, saya ingin bertanya tentang jurnal ini."
+
+msgid "plugins.generic.waFloat.settings.buttonLabel"
+msgstr "Label tombol"
+
+msgid "plugins.generic.waFloat.settings.buttonLabel.default"
+msgstr "Chat WhatsApp"
+
+msgid "plugins.generic.waFloat.settings.position"
+msgstr "Posisi float"
+
+msgid "plugins.generic.waFloat.settings.position.description"
+msgstr "Pilih pojok preset, atau custom untuk mengatur koordinat manual."
+
+msgid "plugins.generic.waFloat.settings.position.bottom_right"
+msgstr "Pojok kanan bawah"
+
+msgid "plugins.generic.waFloat.settings.position.bottom_left"
+msgstr "Pojok kiri bawah"
+
+msgid "plugins.generic.waFloat.settings.position.top_right"
+msgstr "Pojok kanan atas"
+
+msgid "plugins.generic.waFloat.settings.position.top_left"
+msgstr "Pojok kiri atas"
+
+msgid "plugins.generic.waFloat.settings.position.custom"
+msgstr "Koordinat manual"
+
+msgid "plugins.generic.waFloat.settings.offsetX"
+msgstr "Offset horizontal (dari tepi)"
+
+msgid "plugins.generic.waFloat.settings.offsetY"
+msgstr "Offset vertikal (dari tepi)"
+
+msgid "plugins.generic.waFloat.settings.offset.description"
+msgstr "Angka dalam px, atau dengan satuan (contoh: 24, 1.5rem, 3vw)."
+
+msgid "plugins.generic.waFloat.settings.customTop"
+msgstr "Custom top"
+
+msgid "plugins.generic.waFloat.settings.customRight"
+msgstr "Custom right"
+
+msgid "plugins.generic.waFloat.settings.customBottom"
+msgstr "Custom bottom"
+
+msgid "plugins.generic.waFloat.settings.customLeft"
+msgstr "Custom left"
+
+msgid "plugins.generic.waFloat.settings.custom.description"
+msgstr "Isi hanya sisi yang dibutuhkan (mis. right + bottom). Sisanya kosongkan. Nilai: 24, 24px, 2rem, 5%."
+
+msgid "plugins.generic.waFloat.settings.colorStyle"
+msgstr "Gaya warna"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.description"
+msgstr "Pilih gaya warna tombol float."
+
+msgid "plugins.generic.waFloat.settings.colorStyle.whatsapp"
+msgstr "Hijau WhatsApp"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.emerald"
+msgstr "Emerald"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.ocean"
+msgstr "Biru ocean"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.sunset"
+msgstr "Oranye sunset"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.midnight"
+msgstr "Midnight"
+
+msgid "plugins.generic.waFloat.settings.colorStyle.orchid"
+msgstr "Ungu orchid"
