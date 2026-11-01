@@ -5,10 +5,23 @@
 **Plugin name:** WA-Float  
 **Author:** Edi Suherlan  
 **Website:** [audhighasu.com](https://audhighasu.com)  
+**Demo OJS:** [ojs.audhighasu.com](https://ojs.audhighasu.com/)  
 **Email:** audhighasu@gmail.com  
 **Compatible with:** Open Journal Systems (OJS) 3.5  
 **License:** MIT  
 **Repository:** [github.com/edisuherlan/PluginOJS-Whatsapp-Floating-Button](https://github.com/edisuherlan/PluginOJS-Whatsapp-Floating-Button)
+
+### Live preview / Pratinjau langsung
+
+![WA-Float on OJS homepage — Chat WhatsApp button](Screenshoot.PNG)
+
+> See the floating **Chat WhatsApp** button in action on a real journal site:  
+> **[https://ojs.audhighasu.com/](https://ojs.audhighasu.com/)**  
+>  
+> Lihat tombol **Chat WhatsApp** mengambang langsung di situs jurnal demo:  
+> **[https://ojs.audhighasu.com/](https://ojs.audhighasu.com/)**
+
+Need OJS themes, custom journal design, or plugin support? Visit **[audhighasu.com](https://audhighasu.com)** or explore the demo at **[ojs.audhighasu.com](https://ojs.audhighasu.com/)**.
 
 ---
 
@@ -21,6 +34,14 @@
 **WA-Float** is a free OJS generic plugin that shows a floating WhatsApp button on your journal’s public site. Visitors can click it to open WhatsApp with a pre-filled message to the journal manager.
 
 Creator credit appears in the **plugin settings (backend)** only — not on the public website.
+
+**Try it live:** [ojs.audhighasu.com](https://ojs.audhighasu.com/) — Audhighasu Jurnal Informatika (OJS demo by [audhighasu.com](https://audhighasu.com)).
+
+### Screenshot
+
+![WA-Float screenshot — floating Chat WhatsApp button on OJS](Screenshoot.PNG)
+
+*WA-Float on the journal homepage (bottom-right). Demo: [ojs.audhighasu.com](https://ojs.audhighasu.com/).*
 
 ### Features
 
@@ -68,6 +89,7 @@ Creator credit appears in the **plugin settings (backend)** only — not on the 
                ├── settings.xml
                ├── LICENSE
                ├── README.md
+               ├── Screenshoot.PNG
                ├── locale/
                ├── styles/
                └── templates/
@@ -136,11 +158,15 @@ After saving, hard-refresh the public journal page (`Ctrl+F5`) to see changes.
 | Style not updating | Hard refresh (`Ctrl+F5`) or clear browser + OJS cache |
 | Opens blank chat | Check that the number is valid and the message field is not broken by special encoding |
 
-### Support & credit
+### Demo, themes & support
 
-Free plugin by **Edi Suherlan** — [audhighasu.com](https://audhighasu.com) · audhighasu@gmail.com
+- **Live demo (this plugin running on OJS):** [https://ojs.audhighasu.com/](https://ojs.audhighasu.com/)
+- **Themes, custom OJS work & services:** [https://audhighasu.com](https://audhighasu.com)
+- **Contact:** audhighasu@gmail.com · **Author:** Edi Suherlan
 
-If this plugin helps your journal, a star on GitHub is appreciated.
+Looking for ready-made OJS themes (Scholar Modern, Nexus Academic, Aurora Kinetic, Insomniac, Medical Health, and more) or a custom journal look? Check the theme demo bar on [ojs.audhighasu.com](https://ojs.audhighasu.com/) and order via [audhighasu.com](https://audhighasu.com).
+
+If this free plugin helps your journal, a star on GitHub is appreciated.
 
 ---
 
@@ -153,6 +179,14 @@ If this plugin helps your journal, a star on GitHub is appreciated.
 **WA-Float** adalah plugin generic OJS gratis yang menampilkan tombol WhatsApp mengambang (floating) di situs publik jurnal. Pengunjung bisa mengeklik tombol tersebut untuk membuka WhatsApp dengan pesan otomatis ke pengelola jurnal.
 
 Kredit pembuat hanya tampil di **pengaturan plugin (backend)** — tidak ditampilkan di situs publik.
+
+**Coba langsung:** [ojs.audhighasu.com](https://ojs.audhighasu.com/) — Audhighasu Jurnal Informatika (demo OJS oleh [audhighasu.com](https://audhighasu.com)).
+
+### Screenshot
+
+![Screenshot WA-Float — tombol Chat WhatsApp mengambang di OJS](Screenshoot.PNG)
+
+*WA-Float di beranda jurnal (pojok kanan bawah). Demo: [ojs.audhighasu.com](https://ojs.audhighasu.com/).*
 
 ### Fitur
 
@@ -200,6 +234,7 @@ Kredit pembuat hanya tampil di **pengaturan plugin (backend)** — tidak ditampi
                ├── settings.xml
                ├── LICENSE
                ├── README.md
+               ├── Screenshoot.PNG
                ├── locale/
                ├── styles/
                └── templates/
@@ -268,11 +303,15 @@ Setelah disimpan, hard-refresh halaman publik jurnal (`Ctrl+F5`) untuk melihat p
 | Tampilan tidak berubah | Hard refresh (`Ctrl+F5`) atau clear cache browser + OJS |
 | Chat kosong / error | Pastikan nomor valid dan pesan tidak bermasalah |
 
-### Dukungan & kredit
+### Demo, theme & dukungan
 
-Plugin gratis oleh **Edi Suherlan** — [audhighasu.com](https://audhighasu.com) · audhighasu@gmail.com
+- **Demo langsung (plugin ini berjalan di OJS):** [https://ojs.audhighasu.com/](https://ojs.audhighasu.com/)
+- **Theme, jasa kustom OJS & layanan:** [https://audhighasu.com](https://audhighasu.com)
+- **Kontak:** audhighasu@gmail.com · **Pembuat:** Edi Suherlan
 
-Jika plugin ini membantu jurnal Anda, silakan beri bintang di GitHub.
+Butuh theme OJS siap pakai (Scholar Modern, Nexus Academic, Aurora Kinetic, Insomniac, Medical Health, dan lainnya) atau tampilan jurnal custom? Coba theme demo bar di [ojs.audhighasu.com](https://ojs.audhighasu.com/) dan order lewat [audhighasu.com](https://audhighasu.com).
+
+Jika plugin gratis ini membantu jurnal Anda, silakan beri bintang di GitHub.
 
 ---
 
